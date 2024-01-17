@@ -1,1 +1,46 @@
-Wellcome Themesine World!
+ Paul Idowu Adebiyi
+D6, Palmview Estate, Ojodu Berger. Lagos, 100213. 
+Pauladebiyi248@gmail.com	+2349016753843
+Objective:
+Dedicated and results-driven Computer Science student seeking an internship position as a Software Engineer to apply and enhance my technical skills in a dynamic and challenging environment.
+
+Education:
+Bachelor of Science in Computer Science (main: software engineering)
+Babcock University, Ilisan, Ogun. (Expected Graduation Date: June 2025)
+Relevant Coursework:
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Software Engineering
+- Database Management Systems
+- Web Development
+
+Technical Skills:
+Programming Languages:
+ 	- Familiar with JavaScript, HTML, CSS
+
+Development Tools:
+- Version Control: Git 
+- IDEs: Eclipse, Visual Studio Code
+- Database Management: MySQL, SQLite
+
+Frameworks and Libraries:
+- Spring Framework
+- React.js (basic knowledge)
+
+Projects:
+1. Inventory Management System (Java)
+   - Developed a comprehensive inventory management system using Java.
+  	   - Implemented features for product tracking, order processing, and user authentication.
+
+2. Personal Finance Tracker (Python)
+   - Created a Python application to track personal finances.
+    - Utilized data visualization libraries to generate insightful reports.
+
+3. Web Development Project (HTML, CSS, JavaScript)
+   - Collaborated on a team project to build a responsive website.
+  	   - Integrated interactive features using JavaScript and implemented modern design principles.
+
+Work Experience:
+N0 work experience
+- IDEs: Eclipse, Visual Studio Code
+No certification
